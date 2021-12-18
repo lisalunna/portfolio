@@ -27,9 +27,9 @@ export default {
   data() {
     return {
       contactElements: [
-        {text: "tg – @lizalunna"},
-        {text: "instagram."},
-        {text: "vill.liza10@gmail.com"},
+        {text: "tg – @lizalunna."},
+        {text: "inst – @lizalunna."},
+        {text: "vill.liza10@gmail.com."},
       ],
     }
   },
